@@ -2,6 +2,8 @@
 - [Introducción](#Introducción)
 - [Herramientas usadas](#-herramientas-usadas-)
 - [Necesidad del aplicativo](#Necesidad-del-aplicativo)
+- [Diseño de interfaz.](#-diseño-de-interfaz)
+- [MER](#mer)
 - [Arquitectura de Software](#Arquitectura-de-Software)
 - [Uso de cada capa](#Uso-de-cada-capa)
 - [Capa de presentación](#Capa-de-presentación)
@@ -18,11 +20,16 @@
 <h2>Necesidad del aplicativo</h2>
 <p>La necesidad de este aplicativo se da por el objetivo de tener un orden de productos más eficaz y un registro de estos más sencillo y más rápido de este, haciendo que los nuevos productos, sea más eficiente buscarlos en la base de datos con solo tener el id de este o con solo un QR, ya que este tiene todos los datos que se tienen del producto como es el costo y la cantidad, por otro caso, también el aplicativo se encargar de ordenar todos los productos en tablas en donde estas tablas se muestra los datos de este producto facilitando, la manera de manejar el inventario.   
   <br>También la aplicación se encarga  que cualquier producto nuevo que se introduzca, no se pierda el registro de este, haciendo que tenga un comprobante de las ventas de este y su respectiva cantidad, por otro caso el aplicativo se encarga del eliminar productos en los cuales ya no se fabriquen o no se posea existencias de este en ninguna tienda, por esto cada producto que se introduce en la base de datos, a este se le crea un QR el cual este QR muestra la información del producto tanto el costo como en que tiendas se encuentran de este, con esto involucrando una facilidad en la creación de una factura para el cliente del que está comprando el producto en la caja. 
+ <h2> Diseño de interfaz</h2>
+ <div align="center"> 
+  <img src=https://balsamiq.cloud/se2fzjj/punr5ot/r1D7A?f=N4IgUiBcAMA0IDkpxAYWfAMhkAhHAsjgFo4DSUA2gLoC%2BQA%3D>
+</div>
+<br>
  <h2>MER</h2>
  <br>
 <div align="center"> 
   <img src=https://github.com/JuanEsteban2/ProyectoFacturacionBD/blob/main/WhatsApp%20Image%202022-05-01%20at%209.10.04%20PM.jpeg>
-  <h5>Así se ve la metodología evolutiva</h5>
+  
 </div>
 <br>
 #<h2>Arquitectura de Software</h2>
