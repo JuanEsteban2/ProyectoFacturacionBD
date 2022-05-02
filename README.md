@@ -44,6 +44,6 @@ La capa de datos, a veces denominado como la base de datos, en esta capa es dond
 <br>
 <div align="center"> 
   <img src=http://ingsoftware.weebly.com/uploads/2/3/8/2/23822483/6836777_orig.jpg>
-  <h5>Así se ve la metodología evolutiva</h5>
+  
 </div>
 <br>
