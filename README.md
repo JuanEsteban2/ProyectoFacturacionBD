@@ -1,10 +1,12 @@
 ## TABLA DE CONTENIDOS
+- [Introducción](#Introducción)
 - [Necesidad del aplicativo](#Necesidad-del-aplicativo)
 - [Metodología](#Metodología)
+- 
 <div align="center">
   <h1>Proyecto grandes mercados</h1>
 </div>
-#<h2>Introducción<h2>
+#<h2>Introducción<h/2>
 <p> Los super mercados necesitan poder llevar un control, sobre su stock de productos además de poder saber su capacidad de almacenaje, sin mencionar que cada producto tiene que tener su propia denominación, nuestro proyecto tiene el objetivo de a través de nuestra aplicación cumpla todas estas necesidades, para que el super mercado pueda evitar complicaciones o errores que terminen en perdidas para este, logrando además que sea mas eficiente en tema de introducción de nuevos productos.<p>
 #<h2>Necesidad del aplicativo</h2>
 <p>La necesidad de este aplicativo es por que en el momento de tener un orden de productos más eficaz y un registro de estos más sencillo y más rápido de este, haciendo que los nuevos productos, sea más eficiente buscarlos en la base de datos con solo tener el id de este o con solo un QR, ya que este tiene todos los datos que se tienen del producto como es el costo y la cantidad, por otro caso, también el aplicativo se encargar de ordenar todos los productos en tablas en donde estas tablas se muestra los datos de este producto facilitando, la manera de manejar el inventario. 
