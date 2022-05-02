@@ -1,3 +1,8 @@
+<div align="center">
+  <h1>Proyecto grandes mercados</h1>
+</div>
+
+
 ## TABLA DE CONTENIDOS
 - [Introducción](#Introducción)
 - [Herramientas usadas](#-herramientas-usadas-)
@@ -10,9 +15,7 @@
 - [Capa de aplicación](#Capa-de-aplicación)
 - [Capa de datos](#Capa-de-datos)
 - [Metodología](#Metodología)
-<div align="center">
-  <h1>Proyecto grandes mercados</h1>
-</div>
+
 <h2> Introducción </h2>
 <p> Los super mercados necesitan poder llevar un control, sobre su stock de productos además de poder saber su capacidad de almacenaje, sin mencionar que cada producto tiene que tener su propia denominación, nuestro proyecto tiene el objetivo de a través de nuestra aplicación cumpla todas estas necesidades, para que el super mercado pueda evitar complicaciones o errores que terminen en perdidas para este, logrando además que sea mas eficiente en tema de introducción de nuevos productos.</p>
 <h2> Herramientas usadas </h2> 
