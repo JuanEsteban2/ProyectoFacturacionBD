@@ -1,6 +1,6 @@
 ## TABLA DE CONTENIDOS
 - [Introducción](#Introducción)
-- [Herramientas usadas]
+- [Herramientas usadas](#-herramientas-usadas-)
 - [Necesidad del aplicativo](#Necesidad-del-aplicativo)
 - [Arquitectura de Software](#Arquitectura-de-Software)
 - [Uso de cada capa](#Uso-de-cada-capa)
@@ -13,8 +13,7 @@
 </div>
 <h2> Introducción </h2>
 <p> Los super mercados necesitan poder llevar un control, sobre su stock de productos además de poder saber su capacidad de almacenaje, sin mencionar que cada producto tiene que tener su propia denominación, nuestro proyecto tiene el objetivo de a través de nuestra aplicación cumpla todas estas necesidades, para que el super mercado pueda evitar complicaciones o errores que terminen en perdidas para este, logrando además que sea mas eficiente en tema de introducción de nuevos productos.</p>
-<h2> Herramientas usadas <h/2> 
-  
+<h2> Herramientas usadas </h2> 
 <p>Para la aplicación de nuestro problema utilizaremos la base de datos de Microsoft SQL server y como utilizamos la base Microsoft utilizaremos un software para modelar y programar que sea compatible con este, por eso utilizaremos visual estudio el cual permite hacer una programación por capas para proteger la información y permite realizar la funcionalidad y el diseño por separado.</p> 
 <h2>Necesidad del aplicativo</h2>
 <p>La necesidad de este aplicativo se da por el objetivo de tener un orden de productos más eficaz y un registro de estos más sencillo y más rápido de este, haciendo que los nuevos productos, sea más eficiente buscarlos en la base de datos con solo tener el id de este o con solo un QR, ya que este tiene todos los datos que se tienen del producto como es el costo y la cantidad, por otro caso, también el aplicativo se encargar de ordenar todos los productos en tablas en donde estas tablas se muestra los datos de este producto facilitando, la manera de manejar el inventario. 
