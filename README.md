@@ -24,10 +24,9 @@
 <p>La necesidad de este aplicativo se da por el objetivo de tener un orden de productos más eficaz y un registro de estos más sencillo y más rápido de este, haciendo que los nuevos productos, sea más eficiente buscarlos en la base de datos con solo tener el id de este o con solo un QR, ya que este tiene todos los datos que se tienen del producto como es el costo y la cantidad, por otro caso, también el aplicativo se encargar de ordenar todos los productos en tablas en donde estas tablas se muestra los datos de este producto facilitando, la manera de manejar el inventario.   
   <br>También la aplicación se encarga  que cualquier producto nuevo que se introduzca, no se pierda el registro de este, haciendo que tenga un comprobante de las ventas de este y su respectiva cantidad, por otro caso el aplicativo se encarga del eliminar productos en los cuales ya no se fabriquen o no se posea existencias de este en ninguna tienda, por esto cada producto que se introduce en la base de datos, a este se le crea un QR el cual este QR muestra la información del producto tanto el costo como en que tiendas se encuentran de este, con esto involucrando una facilidad en la creación de una factura para el cliente del que está comprando el producto en la caja. 
  <h2> Diseño de interfaz</h2>
- <div align="center"> 
-  <p> La interfaz fue realizada en Balsamiq, la vista del usuario puede ser consultada haciendo clic en el siguiente link: https://balsamiq.cloud/se2fzjj/punr5ot/r1D7A?f=N4IgUiBcAMA0IDkpxAYWfAMhkAhHAsjgFo4DSUA2gLoC%2BQA%3D </p>
-</div>
-<br>
+ <p> la interfaz de usuario se realiza en Balsamiq  <a href=https://balsamiq.cloud/se2fzjj/punr5ot/r1D7A?f=N4IgUiBcAMA0IDkpxAYWfAMhkAhHAsjgFo4DSUA2gLoC%2BQA%3D>haz clik para mirar la interfaz</a></p>
+
+
  <h2>MER</h2>
  <br>
 <div align="center"> 
