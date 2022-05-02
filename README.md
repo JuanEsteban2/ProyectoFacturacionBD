@@ -2,10 +2,10 @@
 - [Introducción](#Introducción)
 - [Necesidad del aplicativo](#Necesidad-del-aplicativo)
 - [Arquitectura de Software](#Arquitectura-de-Software)
- -[Uso de cada capa](#Uso-de-cada-capa)
- -[Capa de presentación](#Capa-de-presentación)
- -[Capa de aplicación](#Capa-de-aplicación)
- -[Capa de datos](#Capa-de-datos)
+-[Uso de cada capa](#Uso-de-cada-capa)
+-[Capa de presentación](#Capa-de-presentación)
+-[Capa de aplicación](#Capa-de-aplicación)
+-[Capa de datos](#Capa-de-datos)
 - [Metodología](#Metodología)
 - 
 <div align="center">
