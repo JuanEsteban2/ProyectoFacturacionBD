@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\proyecto final\\proyecto final.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\Capa_Logica\\Capa_Logica.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\Capa_Logica\\Capa_Logica.csproj",
+        "projectName": "Capa_Logica",
+        "projectPath": "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\Capa_Logica\\Capa_Logica.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\Clase_Datos\\Capa_Datos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\Clase_Datos\\Capa_Datos.csproj",
+        "projectName": "Capa_Datos",
+        "projectPath": "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\Clase_Datos\\Capa_Datos.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\Capa_Logica\\Capa_Logica.csproj": {
+                "projectPath": "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\Capa_Logica\\Capa_Logica.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\Clase_Presentacion\\Capa_Presentacion.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\Clase_Presentacion\\Capa_Presentacion.csproj",
+        "projectName": "Capa_Presentacion",
+        "projectPath": "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\Clase_Presentacion\\Capa_Presentacion.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\Capa_Logica\\Capa_Logica.csproj": {
+                "projectPath": "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\Capa_Logica\\Capa_Logica.csproj"
+              },
+              "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\Clase_Datos\\Capa_Datos.csproj": {
+                "projectPath": "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\Clase_Datos\\Capa_Datos.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\proyecto final\\proyecto final.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\proyecto final\\proyecto final.csproj",
+        "projectName": "proyecto final",
+        "projectPath": "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\proyecto final\\proyecto final.csproj",
+        "packagesPath": "C:\\Users\\Personal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\proyecto final\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Personal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\Capa_Logica\\Capa_Logica.csproj": {
+                "projectPath": "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\Capa_Logica\\Capa_Logica.csproj"
+              },
+              "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\Clase_Presentacion\\Capa_Presentacion.csproj": {
+                "projectPath": "C:\\Users\\Personal\\Downloads\\ProyectoBD\\proyecto final\\proyecto final\\Clase_Presentacion\\Capa_Presentacion.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

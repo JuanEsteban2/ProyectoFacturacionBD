@@ -66,27 +66,27 @@ CREATE PROC sp_buscar_producto
 @id int,
 @nombre varchar(50)
 AS SELECT * FROM Productos 
-WHERE (id_producto LIKE @id) or (nombre LIKE @nombre + '%');
+WHERE (id_producto = @id) or (nombre LIKE @nombre + '%');
 go
 
 CREATE PROC sp_buscar_venta
 @id int
 AS SELECT * FROM Ventas
-WHERE (id_venta LIKE @id);
+WHERE (id_venta = @id);
 go
 
 CREATE PROC sp_buscar_proveedor
 @id int,
 @nombre varchar(50)
 AS SELECT * FROM Proveedores
-WHERE (id_proveedor LIKE @id) or (nombre LIKE @nombre + '%');
+WHERE (id_proveedor = @id) or (nombre LIKE @nombre + '%');
 go
 
 CREATE PROC sp_buscar_cliente
 @id int,
 @nombre varchar(50)
 AS SELECT * FROM Clientes
-WHERE (id_cliente LIKE @id) or (nombre LIKE @nombre + '%');
+WHERE (id_cliente = @id) or (nombre LIKE @nombre + '%');
 go
 
 

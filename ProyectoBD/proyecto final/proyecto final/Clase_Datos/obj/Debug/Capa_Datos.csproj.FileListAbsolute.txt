@@ -1,0 +1,29 @@
+C:\Users\malt1\Desktop\proyecto final\proyecto final\Clase_Datos\bin\Debug\Clase_Datos.dll
+C:\Users\malt1\Desktop\proyecto final\proyecto final\Clase_Datos\bin\Debug\Clase_Datos.pdb
+C:\Users\malt1\Desktop\proyecto final\proyecto final\Clase_Datos\bin\Debug\Capa_Logica.dll
+C:\Users\malt1\Desktop\proyecto final\proyecto final\Clase_Datos\bin\Debug\Capa_Logica.pdb
+C:\Users\malt1\Desktop\proyecto final\proyecto final\Clase_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\malt1\Desktop\proyecto final\proyecto final\Clase_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\malt1\Desktop\proyecto final\proyecto final\Clase_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+C:\Users\malt1\Desktop\proyecto final\proyecto final\Clase_Datos\obj\Debug\Clase_Datos.dll
+C:\Users\malt1\Desktop\proyecto final\proyecto final\Clase_Datos\obj\Debug\Clase_Datos.pdb
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\Clase_Datos\bin\Debug\Clase_Datos.dll
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\Clase_Datos\bin\Debug\Clase_Datos.pdb
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\Clase_Datos\bin\Debug\Capa_Logica.dll
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\Clase_Datos\bin\Debug\Capa_Logica.pdb
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\Clase_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\Clase_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\Clase_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\Clase_Datos\obj\Debug\Clase_Datos.dll
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\Clase_Datos\obj\Debug\Clase_Datos.pdb
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\Clase_Datos\bin\Debug\Clase_Datos.dll
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\Clase_Datos\bin\Debug\Clase_Datos.pdb
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\Clase_Datos\bin\Debug\Capa_Logica.dll
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\Clase_Datos\bin\Debug\Capa_Logica.pdb
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\Clase_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\Clase_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\Clase_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\Clase_Datos\obj\Debug\Clase_Datos.dll
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\Clase_Datos\obj\Debug\Clase_Datos.pdb
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\Clase_Datos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\Clase_Datos\bin\Debug\System.Data.SqlClient.xml

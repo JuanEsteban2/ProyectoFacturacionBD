@@ -1,0 +1,21 @@
+C:\Users\malt1\Desktop\proyecto final\proyecto final\Capa_Logica\bin\Debug\Capa_Logica.dll
+C:\Users\malt1\Desktop\proyecto final\proyecto final\Capa_Logica\bin\Debug\Capa_Logica.pdb
+C:\Users\malt1\Desktop\proyecto final\proyecto final\Capa_Logica\obj\Debug\Capa_Logica.csproj.AssemblyReference.cache
+C:\Users\malt1\Desktop\proyecto final\proyecto final\Capa_Logica\obj\Debug\Capa_Logica.csproj.CoreCompileInputs.cache
+C:\Users\malt1\Desktop\proyecto final\proyecto final\Capa_Logica\obj\Debug\Capa_Logica.dll
+C:\Users\malt1\Desktop\proyecto final\proyecto final\Capa_Logica\obj\Debug\Capa_Logica.pdb
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\Capa_Logica\bin\Debug\Capa_Logica.dll
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\Capa_Logica\bin\Debug\Capa_Logica.pdb
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\Capa_Logica\obj\Debug\Capa_Logica.csproj.AssemblyReference.cache
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\Capa_Logica\obj\Debug\Capa_Logica.csproj.CoreCompileInputs.cache
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\Capa_Logica\obj\Debug\Capa_Logica.dll
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\Capa_Logica\obj\Debug\Capa_Logica.pdb
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\Capa_Logica\bin\Debug\Capa_Logica.dll
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\Capa_Logica\bin\Debug\Capa_Logica.pdb
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\Capa_Logica\obj\Debug\Capa_Logica.csproj.AssemblyReference.cache
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\Capa_Logica\obj\Debug\Capa_Logica.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\Capa_Logica\obj\Debug\Capa_Logica.dll
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\Capa_Logica\obj\Debug\Capa_Logica.pdb
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\Capa_Logica\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\Capa_Logica\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\Capa_Logica\obj\Debug\Capa_Logica.csproj.CopyComplete

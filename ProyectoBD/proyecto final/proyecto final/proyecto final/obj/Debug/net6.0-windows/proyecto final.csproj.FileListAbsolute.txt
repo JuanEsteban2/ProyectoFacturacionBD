@@ -1,0 +1,102 @@
+C:\Users\malt1\source\repos\proyecto final\proyecto final\bin\Debug\net6.0-windows\proyecto final.exe
+C:\Users\malt1\source\repos\proyecto final\proyecto final\bin\Debug\net6.0-windows\proyecto final.deps.json
+C:\Users\malt1\source\repos\proyecto final\proyecto final\bin\Debug\net6.0-windows\proyecto final.runtimeconfig.json
+C:\Users\malt1\source\repos\proyecto final\proyecto final\bin\Debug\net6.0-windows\proyecto final.dll
+C:\Users\malt1\source\repos\proyecto final\proyecto final\bin\Debug\net6.0-windows\proyecto final.pdb
+C:\Users\malt1\source\repos\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.csproj.AssemblyReference.cache
+C:\Users\malt1\source\repos\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.Form1.resources
+C:\Users\malt1\source\repos\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.Properties.Resources.resources
+C:\Users\malt1\source\repos\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.csproj.GenerateResource.cache
+C:\Users\malt1\source\repos\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malt1\source\repos\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.AssemblyInfoInputs.cache
+C:\Users\malt1\source\repos\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.AssemblyInfo.cs
+C:\Users\malt1\source\repos\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\malt1\source\repos\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.dll
+C:\Users\malt1\source\repos\proyecto final\proyecto final\obj\Debug\net6.0-windows\refint\proyecto final.dll
+C:\Users\malt1\source\repos\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.pdb
+C:\Users\malt1\source\repos\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.genruntimeconfig.cache
+C:\Users\malt1\source\repos\proyecto final\proyecto final\obj\Debug\net6.0-windows\ref\proyecto final.dll
+C:\Users\malt1\source\repos\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.productos.resources
+C:\Users\malt1\source\repos\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.clientes.resources
+C:\Users\malt1\source\repos\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.ventas.resources
+C:\Users\malt1\Desktop\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.csproj.AssemblyReference.cache
+C:\Users\malt1\Desktop\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.clientes.resources
+C:\Users\malt1\Desktop\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.Form1.resources
+C:\Users\malt1\Desktop\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.productos.resources
+C:\Users\malt1\Desktop\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.proovedores.resources
+C:\Users\malt1\Desktop\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.Properties.Resources.resources
+C:\Users\malt1\Desktop\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.ventas.resources
+C:\Users\malt1\Desktop\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.csproj.GenerateResource.cache
+C:\Users\malt1\Desktop\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malt1\Desktop\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.AssemblyInfoInputs.cache
+C:\Users\malt1\Desktop\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.AssemblyInfo.cs
+C:\Users\malt1\Desktop\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\malt1\Desktop\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.dll
+C:\Users\malt1\Desktop\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\refint\proyecto final.dll
+C:\Users\malt1\Desktop\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.pdb
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.csproj.AssemblyReference.cache
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.dll
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\refint\proyecto final.dll
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.pdb
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\proyecto final.exe
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\proyecto final.dll.config
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\proyecto final.deps.json
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\proyecto final.runtimeconfig.json
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\proyecto final.dll
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\proyecto final.pdb
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\Capa_Logica.dll
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\Clase_Datos.dll
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\Clase_Presentacion.dll
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\Capa_Logica.pdb
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\Clase_Presentacion.pdb
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\Clase_Datos.pdb
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.clientes.resources
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.Form1.resources
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.productos.resources
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.proovedores.resources
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.Properties.Resources.resources
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.ventas.resources
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.csproj.GenerateResource.cache
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.AssemblyInfoInputs.cache
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.AssemblyInfo.cs
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.csproj.CopyComplete
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.genruntimeconfig.cache
+C:\Users\CAMIL\Downloads\interfas terminada\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\ref\proyecto final.dll
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\proyecto final.exe
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\proyecto final.dll.config
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\proyecto final.deps.json
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\proyecto final.runtimeconfig.json
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\proyecto final.dll
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\proyecto final.pdb
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\Capa_Logica.dll
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\Clase_Datos.dll
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\Clase_Presentacion.dll
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\Capa_Logica.pdb
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\Clase_Presentacion.pdb
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\Clase_Datos.pdb
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.csproj.AssemblyReference.cache
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.clientes.resources
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.Form1.resources
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.productos.resources
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.proovedores.resources
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.Properties.Resources.resources
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto_final.ventas.resources
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.csproj.GenerateResource.cache
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.AssemblyInfoInputs.cache
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.AssemblyInfo.cs
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.csproj.CopyComplete
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.dll
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\refint\proyecto final.dll
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.pdb
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\proyecto final.genruntimeconfig.cache
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\obj\Debug\net6.0-windows\ref\proyecto final.dll
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Personal\Downloads\ProyectoBD\proyecto final\proyecto final\proyecto final\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
